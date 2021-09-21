@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Alexvairavan
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on data science projects
+-
 - 📫 How to reach me alex.vairavan23@gmail.com
 
 <!---
